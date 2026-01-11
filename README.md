@@ -3,7 +3,7 @@
 Self-taught Web Developer focused on fundamentals and consistency.
 
 ## 🌐 Connect with me
-(accepting tips)
+
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eric_alvsx)
 
 ### 🛠️ Languages
