@@ -1,16 +1,9 @@
-## 👋 Hi, I'm Eric
+## Hi, I'm Eric
 
-Self-taught Web Developer focused on fundamentals and consistency.
+I am learning programming stuff, and trying to enjoy the process.
+I am from Brazil, i've been studying english since 2024/2025 but i still make some errors.
+I enjoy playing games (it's hard to find good games when you just have a phone) i also like to watch animes, i like to read books as well and really love doing sports.
+If you want to contact me, feel free to follow me on Instagram or Discord which is in my bio.
 
-## 🌐 Connect with me
-
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eric_alvsx)
-
-### 🛠️ Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 📚 Current focus
-- JavaScript fundamentals
-- Building small projects
+### Current focus
+For now, i want to learn everything that i can learn using my phone, the language that i am going to study is Javascript.
