@@ -1,8 +1,8 @@
 ## Hi, I'm Eric
 
-I am learning programming stuff, and trying to enjoy the process. /br
-I am from Brazil, i've been studying english since 2024/2025 but i still make some errors. /br
-I enjoy playing games (it's hard to find good games when you just have a phone) i also like to watch animes, i like to read books as well and really love doing sports. *br
+I am learning programming stuff, and trying to enjoy the process. <br>
+I am from Brazil, i've been studying english since 2024/2025 but i still make some errors. <br>
+I enjoy playing games (it's hard to find good games when you just have a phone) i also like to watch animes, i like to read books as well and really love doing sports. <br>
 If you want to contact me, feel free to follow me on Instagram or Discord which is in my bio.
 
 ### Current focus
